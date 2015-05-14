@@ -9,6 +9,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->textEdit->setText("Voici la 1ère ligne");
     ui->textEdit->append("Ajout de la 2ème ligne");
     ui->textEdit->append("Ajout de la 3ème ligne");
+    ui->textEdit->append("Ajout de la 4ème ligne");
 
 }
 
